@@ -1,0 +1,88 @@
+# Music Recommender System Readme
+
+## Overview
+
+This Music Recommender System is a Python application that provides personalized music recommendations based on user preferences and listening history. It offers two user interfaces for your convenience: one for Google Colab and one for local hosting on your machine.
+
+## Features
+
+- **User Registration**: Users can create accounts and log in to the system.
+
+- **Music Data**: The system uses a dataset of songs and their attributes (e.g., genre, artist, tempo) to make recommendations.
+
+- **Recommendations**: Users receive personalized music recommendations based on their listening history and preferences.
+
+- **User Interaction**: Users can rate songs, save favorites, and skip songs, which helps improve recommendation accuracy.
+
+## Requirements
+
+To run this Music Recommender System, you will need:
+
+- Python 3.x installed on your machine.
+
+- Jupyter Notebook if you prefer using Google Colab.
+
+- Visual Studio Code or any other code editor of your choice.
+
+- Required Python libraries, which can be installed using `pip` or `conda`. These dependencies are listed in the `requirements.txt` file included with this project.
+
+## Getting Started
+
+1. Clone this repository to your local machine using Git:
+
+   ```bash
+   git clone https://github.com/your-username/music-recommender-system.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd music-recommender-system
+   ```
+
+3. Install the required Python packages:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Prepare the music dataset: You can either use your own dataset or replace the existing dataset (`music_data.csv`) with your data. Ensure that the dataset follows the same structure with columns like 'song_id', 'song_name', 'artist', 'genre', 'tempo', etc.
+
+5. Run the application:
+
+   - For Google Colab: Open the `Music_Recommender_System.ipynb` notebook in Colab and execute the cells as instructed.
+
+   - For local hosting: Run the `app.py` file:
+
+     ```bash
+     python app.py
+     ```
+
+6. Access the application:
+
+   - For Google Colab, follow the instructions provided in the notebook.
+
+   - For local hosting, open your web browser and go to `http://localhost:5000` to access the music recommender system.
+
+## Usage
+
+1. **User Registration/Login**: Create an account or log in if you already have one.
+
+2. **Music Recommendations**: Start exploring personalized music recommendations based on your listening history and preferences.
+
+3. **Interact with Music**: Rate songs, save favorites, and skip songs to improve the recommendations further.
+
+4. **Log Out**: Don't forget to log out when you're done using the application to keep your data secure.
+
+## Troubleshooting
+
+- If you encounter any issues while running the application, refer to the error messages and logs for more information. You can also check for updates or bug fixes in the project's GitHub repository.
+
+## Contributors
+
+- John Doe (@john-doe)
+- Jane Smith (@jane-smith)
+
+---
+
+Thank you for using our Music Recommender System! Enjoy discovering new music based on your preferences and interactions. If you have any questions or need assistance, feel free to contact us. Happy listening!
