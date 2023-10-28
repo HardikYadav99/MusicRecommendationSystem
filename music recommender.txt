@@ -80,8 +80,8 @@ To run this Music Recommender System, you will need:
 
 ## Contributors
 
-- John Doe (@john-doe)
-- Jane Smith (@jane-smith)
+- Hardik Yadav (@j)
+
 
 ---
 
