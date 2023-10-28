@@ -80,7 +80,7 @@ To run this Music Recommender System, you will need:
 
 ## Contributors
 
-- Hardik Yadav (@j)
+- Hardik Yadav (@Hardikyadav99)
 
 
 ---
