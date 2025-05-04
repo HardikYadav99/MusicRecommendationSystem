@@ -6,7 +6,7 @@ Certainly! Below is a template for a README file for a Music Recommendation Syst
 
 The Music Recommendation System is a Python-based application designed to provide music recommendations to users based on their music preferences. It uses a combination of user input, historical listening behavior, and advanced algorithms to suggest songs, albums, and artists that align with the user's tastes. Whether you're looking for new music or a personalized playlist, this system has you covered.
 
-![Music Recommendation System](screenshot.png)
+
 
 ## Features
 
