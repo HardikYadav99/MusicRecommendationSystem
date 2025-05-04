@@ -91,10 +91,5 @@ If you have any questions, suggestions, or feedback, please contact Hardik Yadav
 
 Enjoy discovering new music with the Music Recommendation System! 🎵🎶
 
-[Include any badges or additional information you'd like to add to the README.]
-
----
-
-[Optional: You can include badges and additional information at the end of your README, such as build status, contributions, or licenses.]
 
 Feel free to customize this README template according to your specific project. A well-documented README helps users and potential contributors understand your Music Recommendation System and how to interact with it.
