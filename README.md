@@ -87,7 +87,7 @@ We would like to thank the open-source community and various libraries and tools
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please contact [Your Name] at [your@email.com].
+If you have any questions, suggestions, or feedback, please contact Hardik Yadav at Hardikyadav1567@gmail.com.
 
 Enjoy discovering new music with the Music Recommendation System! 🎵🎶
 
